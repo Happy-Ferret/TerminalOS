@@ -7,3 +7,4 @@ cp .xinitrc /home/superuser/.xinitrc
 cp cherry-trees.jpg /boot/grub/cherry-trees.jpg
 cp 05_debian_theme /etc/grub.d/05_debian_theme
 cp 10_linux /etc/grub.d/10_linux
+cp shutdown /home/superuser/shutdown
