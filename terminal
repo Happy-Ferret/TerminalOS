@@ -1,0 +1,3 @@
+#!/bin/sh
+rdesktop terminalserver -d domainname -f -u username 
+sudo ~/shutdown -P -h now
